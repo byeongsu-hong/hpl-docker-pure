@@ -1,4 +1,4 @@
-FROM gcr.io/abacus-labs-dev/hyperlane-agent:agents-v1.0.0
+FROM gcr.io/abacus-labs-dev/hyperlane-agent:b35c105-20241128-172842
 
 USER root
 
